@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuoteGenerator/static/css/main.1bdc2b7a.css",
+    "main.js": "/QuoteGenerator/static/js/main.14cd9c07.js",
+    "index.html": "/QuoteGenerator/index.html",
+    "main.1bdc2b7a.css.map": "/QuoteGenerator/static/css/main.1bdc2b7a.css.map",
+    "main.14cd9c07.js.map": "/QuoteGenerator/static/js/main.14cd9c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bdc2b7a.css",
+    "static/js/main.14cd9c07.js"
+  ]
+}
