@@ -23,7 +23,7 @@ p{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: #9139b5;
+    background-color: #39b5ab;
 }
 
 #quote-box{
@@ -31,6 +31,7 @@ p{
     padding: 40px;
     border-radius: 10px;
     background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
 
 .actions{
@@ -49,8 +50,16 @@ p{
     color: #ffffff;
 }
 
+.main .button:hover{
+    background-color: #b35dd4;
+}
+
 #tweet-quote{
     margin-left: 15px;
     padding: 7px 10px;
     text-decoration: none;
+}
+
+#tweet-quote:hover{
+    background-color: #b35dd4;
 }
